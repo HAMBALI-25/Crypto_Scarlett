@@ -40,7 +40,8 @@ FAQ:
 📲If you have any questions - contact
 
 ## Crypo Scarlet :
-<Crypo_Scarlett_4.png">
+<img src="Crypo_Scarlett_4.png">
+
  PRICE:
 
 
