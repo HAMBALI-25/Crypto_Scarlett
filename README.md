@@ -40,8 +40,7 @@ FAQ:
 📲If you have any questions - contact
 
 ## Crypo Scarlet :
-<Crypo_Scarlett_3.png">
-
+<Crypo_Scarlett_4.png">
  PRICE:
 
 
@@ -70,20 +69,18 @@ TYPES OF LICENSE:
 
 do you want Seed Aim
 check the new app here
-https://mobile.seedaim.tech/
-
 
 ## Crypo Scarlet :
-<Crypo_Scarlett_4.png">
+<img src="Crypo_Scarlett_5.png">
 
 
 ## Crypo Scarlett :
-<img src="Crypo_Scarlett_5.png">
+<img src="Crypo_Scarlett_6.png">
 
 ⚡️Free Discount Member Vip
 
 ## Crypo Scarlet :
-<img src="Crypo_Scarlett_6.png">
+
 
 👉 I provide you with all the 
 
