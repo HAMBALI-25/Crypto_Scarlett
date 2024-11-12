@@ -1,6 +1,6 @@
 ## Crypo Scarlett : 
 
- 🚀 Here Software
+ 🚀 Here Software Scarlett :
  
 <img src="Crypo_Scarlett_1.png">
  
@@ -98,29 +98,8 @@ What are you waiting for ⁉️🤨
 
 Find wallets with me 👉
 
-
 ## Crypo Scarlet :
 <img src="Promo_Discount.png">
-
-…or create a new repository on the command line
-
-echo "# Crypto_Scarlett" >> README.md
-```
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/HAMBALI-25/Crypto_Scarlett.git
-git push -u origin main```
-
-
-
-…or push an existing repository from the command line
-
-```git remote add origin https://github.com/HAMBALI-25/Crypto_Scarlett.git
-git branch -M main
-git push -u origin main```
-
 
 ### Hi. I'm Hambali Developers 
 
