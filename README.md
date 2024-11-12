@@ -99,7 +99,7 @@ What are you waiting for ⁉️🤨
 Find wallets with me 👉
 
 ## Crypo Scarlet :
-<img src="Promo_Discount.png">
+<img src="Promo_Discount_1.png">
 
 ### Hi. I'm Hambali Developers 
 
