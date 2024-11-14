@@ -77,7 +77,7 @@ check the new app here
 
 
 ## Crypo Scarlett :
-<img src="Crypo_Scarlett_6.png">
+<img src="Promo_Discount_1.png">
 
 ⚡️Free Discount Member Vip
 
@@ -98,7 +98,13 @@ What are you waiting for ⁉️🤨
 Find wallets with me 👉
 
 ## Crypo Scarlet :
-<img src="Promo_Discount_1.png">
+⚡️Free Discount
+<img src="Promo_Discount_2.png">
+
+## Crypo Scarlet :
+☺️ Free Discount
+<img src="Promo_Discount_3.png">
+
 
 ### Hi. I'm Hambali Developers 
 
